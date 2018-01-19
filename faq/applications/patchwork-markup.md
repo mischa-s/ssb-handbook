@@ -44,6 +44,14 @@ Here you go!
 	arbitrary case-insensitive reference text]: https://www.mozilla.org
 	[1]: http://slashdot.org
 	[link text itself]: http://www.reddit.com
+	
+	Quotes
+	> Quotes are done as blockquotes.
+	> This line is part of the same quote because there is nothing to break them up
+	
+	This line will be normal though
+	
+	> And then this one will be a new block quote
 
 The above yields:
 
@@ -85,6 +93,15 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+Quotes
+> Blockquotes are very handy.
+> This line is part of the same quote.
+
+This line will be normal though
+
+> And then this one will be a new block quote
+
 
 ---
 *Sources*
